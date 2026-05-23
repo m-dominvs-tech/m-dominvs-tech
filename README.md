@@ -23,9 +23,10 @@
 
 ## 📊 Mis Estadísticas de GitHub
 
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-dominvs-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dominvs-tech&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api?username=m-dominvs-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=m-dominvs-tech&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
